@@ -9,6 +9,6 @@
 | Mata Kuliah | *Grafika Komputer*
 
 # SCREENSHOT PROGRAM
-< ![image](https://github.com/user-attachments/assets/c05a91c1-0c60-407b-bf48-c84c02f99031)>
+![image](https://github.com/user-attachments/assets/c05a91c1-0c60-407b-bf48-c84c02f99031)
 
 | Grafika Komputer |
